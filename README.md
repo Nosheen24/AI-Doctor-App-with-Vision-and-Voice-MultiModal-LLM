@@ -52,6 +52,3 @@ It's like having a virtual doctor assistant on your computer, powered by the lat
 - Extend functionality to **mobile apps**  
 
 ---
-
-## 🔹 One-Line Resume Version
-> Built a real-time **Multimodal AI Doctor Assistant** integrating Vision LLMs, Speech Recognition, and Voice Synthesis for intelligent medical interaction.
